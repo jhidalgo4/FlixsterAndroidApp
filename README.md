@@ -20,7 +20,7 @@
 
 ### App Walkthough GIF
 
-<img src="https://media.giphy.com/media/16fMq3rPLsEppgpbQe/giphy.gif" width=250><br>
+<img src="https://media.giphy.com/media/btsLrzi4gMwUn00hZe/giphy.gif" width=250><br>
 
 ### Notes
 
