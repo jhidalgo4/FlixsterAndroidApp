@@ -15,6 +15,7 @@ Android Front-End App displays a list of movies using a Recycler View to retriev
 
 ### Notes
 -When building the app, I need to use Async HTTP to recieve information from websites to fill my recyclerView. I used an API given, the issue would be would I need to make my own API key or can I continue to use the one CodePath gave, this is important to know if building off this same project.
+
 -**Youtube API** Key gave me trouble when having to connect to the Google servers, the youtube API key is set as a string that may have to be updated because of the Youtube API KEY inorder to play the video player may/while change over time.
 
 ## Open-source libraries used
