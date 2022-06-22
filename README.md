@@ -20,9 +20,9 @@ Android Front-End App displays a list of movies using a Recycler View to retriev
 
 ## Open-source libraries used
 - Flixster is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
-- 
+
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
-- 
+ 
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
 
 ## License
