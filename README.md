@@ -1,7 +1,7 @@
 # Android Movie App
 
 ## Overview:
-Android Front-End App displays a list of movies using a Recycler View to retrieve, compose and display a list of movies by parsing json retrievals from REST API to keep you updated on the latest movies, their ratings, description and give you a direct movie preview all in 1 app.
+Android Front-End App displays a list of movies using a Recycler View to retrieve, compose and display a list of movies from the Movie Database API by parsing json retrievals from REST API to keep you updated on the latest movies, their ratings, description and give you a direct movie preview all in 1 app.
 
 ### App Walkthough GIF
 <img src="https://media.giphy.com/media/R10013oG6d4i4FgzJf/giphy.gif" width=250><br>
