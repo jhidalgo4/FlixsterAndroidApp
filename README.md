@@ -1,9 +1,9 @@
 # Movie Android App
 
 ### User Stories
-- [x] (10pts) User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
-- [x] (8pts) Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
-- [x] (2pts) Allow video posts to be played in full-screen using the YouTubePlayerView.
+- [x] User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
+- [x] Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
+- [x] Allow video posts to be played in full-screen using the YouTubePlayerView.
 
 
 ### App Walkthough GIF
