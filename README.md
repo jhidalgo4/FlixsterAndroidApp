@@ -19,11 +19,11 @@ Android Front-End App displays a list of movies using a Recycler View to retriev
 -**Youtube API** Key gave me trouble when having to connect to the Google servers, the youtube API key is set as a string that may have to be updated because of the Youtube API KEY inorder to play the video player may/while change over time.
 
 ## Open-source libraries used
+- Flixster is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+- 
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
+- 
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
-
-
-Flixster is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
 ## License
 
