@@ -1,18 +1,17 @@
 # Android Movie App
 
 ## Overview:
-Android Front-End App displays a list of movies using a Recycler View to retrieve, compose and display a list of movies by parsing json retrievals from REST API to keep you updated on the latest movies, their ratings and give you a direct movie preview all in 1 app.
-
-### User Stories
-- [x] User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
-- [x] Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
-- [x] Allow video posts to be played in full-screen using the YouTubePlayerView.
-
+Android Front-End App displays a list of movies using a Recycler View to retrieve, compose and display a list of movies by parsing json retrievals from REST API to keep you updated on the latest movies, their ratings, description and give you a direct movie preview all in 1 app.
 
 ### App Walkthough GIF
 <img src="https://media.giphy.com/media/R10013oG6d4i4FgzJf/giphy.gif" width=250><br>
 -
 <img src="https://media.giphy.com/media/btsLrzi4gMwUn00hZe/giphy.gif" width=250><br>
+
+### User Stories
+- [x] User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
+- [x] Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
+- [x] Allow video posts to be played in full-screen using the YouTubePlayerView.
 
 ### Notes
 -When building the app, I need to use Async HTTP to recieve information from websites to fill my recyclerView. I used an API given, the issue would be would I need to make my own API key or can I continue to use the one CodePath gave, this is important to know if building off this same project.
