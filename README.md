@@ -1,5 +1,8 @@
 # Movie Android App
 
+##Overview:
+App 
+
 ### User Stories
 - [x] User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
 - [x] Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
