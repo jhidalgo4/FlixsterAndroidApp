@@ -1,7 +1,8 @@
 # Movie Android App
 
-##Overview:
-App 
+## Overview:
+Android Front-end app displays a list of movies using a Recycler View to retrieve, compose and display a list of movies given an API 
+by parsing json retrievals from REST API to keep you updated on the latest movies, their ratings and give you a direct movie preview all in 1 app.
 
 ### User Stories
 - [x] User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
